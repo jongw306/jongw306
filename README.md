@@ -11,53 +11,17 @@
 <!-- [![cheseo's 42 stats](https://badge42.vercel.app/api/v2/cl60mftnf000609mv65leer9m/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42) -->
 
 ## 💬 About me
-- 🌱 I’m 42seoul student
-- ❤️ I love to code and read
+- 🌱 I’m 30  /  seoul 
+-  I love to code and read
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
 #### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mm9176715)](https://www.acmicpc.net/user/mm9176715)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongw306)](https://www.acmicpc.net/user/jongw306)
 
 #### ⏲️ Work Stats
 <!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                84 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-🌆 Daytime                356 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌃 Evening                731 commits         █████████████░░░░░░░░░░░░   51.37 % 
-🌙 Night                  252 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   285 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Tuesday                  265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-Wednesday                232 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 261 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-Friday                   164 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Saturday                 121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Sunday                   95 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-ca65 assembler           5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   45.03 % 
-C                        4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.96 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Assembly                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Makefile                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 #### 🛠️ Github Stats
 <p>
