@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongw306%2Fawesome-project&count_bg=%230D1821&title_bg=%237E4AC4&icon=sourcegraph.svg&icon_color=%230A090B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjongw306%2Fawesome-repo&count_bg=%230D1821&title_bg=%237E4AC4&icon=sourcegraph.svg&icon_color=%230A090B&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
