@@ -7,11 +7,6 @@
 -  I love to code and read
 <!-- - ⚡ Fun fact: I can sleep more than 12 hours straight -->
 
-#### 🎖️ Ranking
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jongw306)](https://www.acmicpc.net/user/jongw306)
-
-#### ⏲️ Work Stats
-<!-- [![veggie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=veggie_garden)](https://wakatime.com/@veggie_garden) -->
 
 
 
